@@ -13,7 +13,7 @@ Escrever as matrizes preenchidas A e B.
 c) (valor 0,5) Após o preenchimento das matrizes A e B, faça uma função menu()que deve
 escrever na tela as seguintes operações:
 
-      MENU
+  MENU
   1 – (A + B)
   2 – (A – B)
   3 – (A x B)
